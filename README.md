@@ -1,2 +1,2 @@
-# Streliza
+# Strelizia
  Safety Net
